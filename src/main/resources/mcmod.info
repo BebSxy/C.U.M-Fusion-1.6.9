@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "cum",
+    "name": "C.U.M Fusion",
+    "description": "Thanks to Phobos for most of the modules :D ",
+    "version": "1.6.9",
+    "mcversion": "1.12.2",
+    "logoFile": "assets/minecraft/textures/Logo.png",
+    "url": "Compass Symbol: https://discord.gg/w9aBGtZHDb",
+    "updateUrl": "CS+ Texture Pack: https://discord.gg/CfVgMHvzcQ",
+    "authorList": [
+      "BrianGamer",
+      "Jpdvx",
+      "Joseph"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
